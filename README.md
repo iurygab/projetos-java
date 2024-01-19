@@ -1,2 +1,2 @@
 # projetos-java
-Contéudos de Estudos em Java 
+Contéudos de estudos em Java 
